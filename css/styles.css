@@ -7409,8 +7409,8 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
+  background-image: url("../assets/img/IMG_0132.jpeg");
   background-size:cover;
-  background-image: url("assets/img/IMG_0132.jpeg");
   background-repeat:no-repeat;
 }
 
